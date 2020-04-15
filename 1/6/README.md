@@ -5,7 +5,9 @@
 단, 나이트는 체스판 밖으로는 이동할 수 없습니다.
 
 체스판의 각 칸의 위치는 다음과 같이 표기합니다.
+
 ![image](https://s3.ap-northeast-2.amazonaws.com/grepp-cloudfront/programmers_imgs/challengeable-imgs/20180315_knight2.png)
+
 예를 들어, A번줄과 1번줄이 겹치는 부분은 'A1'이라고 합니다.
 
 나이트의 위치 pos가 매개변수로 주어질 때, 나이트를 한 번 움직여서 이동할 수 있는 칸은 몇개인지 return 하도록 solution 함수를 완성해주세요.
@@ -30,6 +32,8 @@
 | "A7" | 3      |
 
 #####예시 설명
-나이트가 A7 위치에 있으면 아래 그림과 같이 왼쪽으로는 이동하지 못하고, 오른쪽으로는 맨 위를 제외한 나머지 세 칸으로 이동 가능합니다. 
+나이트가 A7 위치에 있으면 아래 그림과 같이 왼쪽으로는 이동하지 못하고, 오른쪽으로는 맨 위를 제외한 나머지 세 칸으로 이동 가능합니다.
+ 
 ![image](https://s3.ap-northeast-2.amazonaws.com/grepp-cloudfront/programmers_imgs/challengeable-imgs/20180315_knight3.png)
+
 따라서, 3을 return 하면 됩니다.
