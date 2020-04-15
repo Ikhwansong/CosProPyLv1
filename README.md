@@ -5,4 +5,3 @@ YBM CoS Pro Python 1급 문제 풀이
 ----
 YBM CoS Pro Python 1급 문제 풀이입니다. 
 YBM CoS Pro 홈페이지에 있는 문제를 푸는 대로 업데이트합니다. 
-문제는 py 파일 안에 주석으로 있습니다.
